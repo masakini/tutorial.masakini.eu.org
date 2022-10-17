@@ -1,0 +1,61 @@
+/* Header Atau Judul Halaman */
+
+h1               { 
+                   font-family:Averia Serif Libre; 
+                   font-size:22px; 
+                   font-weight:bold; 
+                   color:goldenrod; 
+                   margin-top:0; 
+                   margin-bottom:0; 
+                 } 
+
+/* Sub Judul 1 */
+
+h2               { 
+                   font-size:20px; 
+                   font-weight:bold; 
+                   color:cyan; 
+                   margin-top:0; 
+                   margin-bottom:0; 
+                 } 
+
+/* Sub Judul 2 */
+
+h3               { 
+                   font-size:18px; 
+                   font-weight:bold; 
+                   color:springgreen; 
+                   margin-top:0; 
+                   margin-bottom:0; 
+                 } 
+
+/* Judul Konten */
+
+h4               { 
+                   font-family:Averia Serif Libre; 
+                   font-size:16px; 
+                   font-weight:bold; 
+                   color:white; 
+                   margin-top:8px; 
+                   margin-bottom:8px; 
+                 } 
+
+/* Isi Konten */
+
+h5               { 
+                   font-family:Averia Serif Libre; 
+                   font-size:15px; 
+                   font-weight:bold; 
+                   margin-top:8px; 
+                   margin-bottom:8px; 
+                 } 
+
+/* Footer */
+
+h6               { 
+                   font-size:11px; 
+                   font-weight:bold; 
+                   color:springgreen; 
+                   margin-top:0; 
+                   margin-bottom:0; 
+                 } 
