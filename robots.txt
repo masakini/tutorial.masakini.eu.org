@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://tutorial.masakini.eu.org/sitemap.xml 
